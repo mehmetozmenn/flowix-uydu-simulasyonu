@@ -1,7 +1,6 @@
 # 🌍 Flowix — Gerçek Zamanlı 3B Uydu Simülasyonu ve Yer İstasyonu Etkileşimi
 
-![Flowix Cover]([https://github.com/sehnazcan/TEAM-NUKLEOTIT--GELECEGIN-SURDURULEBILIR-SEHIRLERI-HACKATHONU/blob/main/frontend/photo.jpg?raw=true](https://github.com/mehmetozmenn/flowix-uydu-simulasyonu/blob/main/Flowix.png?raw=true))
-
+![Flowix Banner](https://github.com/mehmetozmenn/flowix-uydu-simulasyonu/blob/main/Flowix.png?raw=true)
 ---
 
 ## 👥 Takım Bilgileri
